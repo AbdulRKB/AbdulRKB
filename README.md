@@ -1,13 +1,13 @@
 <div align="center">
 
- # 𝘏𝘦𝘭𝘭𝘰, 𝘐𝘵'𝘴 <𝘊𝘺𝘣𝘦𝘳𝘛𝘪𝘵𝘶𝘴/>!
+ # Hey there, 𝘐𝘵'𝘴 `<Abdul/>`!
  
  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&color=2A8329&center=true&height=35&lines=Student;Web+Developer;Cyber+Security+Researcher)](https://github.com/CyberTitus?tab=repositories)
  
 
-***studying*** 🌳💻
+***studying*** 🌳📊💻
  
  
 </div>
@@ -47,6 +47,6 @@
 
 <div align="center">
  
-<a href="https://cybertitus.github.io"><img src="https://img.shields.io/website?down_color=red&down_message=offline&style=flat-square&up_color=green&url=https%3A%2F%2Fcybertitus.github.io" alt="website"></a>
+<a href="https://cybertitus.github.io"><img src="https://img.shields.io/website?down_color=red&down_message=offline&style=flat-square&up_color=lime&url=https%3A%2F%2Fcybertitus.github.io" alt="website"></a>
 
 </div>
