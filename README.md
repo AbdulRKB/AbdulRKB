@@ -30,6 +30,9 @@
 | --- | --- |
 | [![Github Stats](https://github-readme-stats.vercel.app/api?username=AbdulRKB&show_icons=true&title_color=5eff00&icon_color=2ae300&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/AbdulRKB) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRKB&show_icons=true&title_color=5eff00&icon_color=2ae300&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact)](https://github.com/AbdulRKB) |
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/arkb.png" alt="TryHackMe" />
+
+
 </div>
 </details>
 
