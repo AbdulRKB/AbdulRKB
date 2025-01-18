@@ -16,7 +16,6 @@
 ## 🛠️ Projects:
 - [P45](https://github.com/AbdulRKB/P45) - Web-based Proxy Server
 - [URLsho](https://github.com/AbdulRKB/URLsho) - Fast, Simple URL Shortener
-- [TBlazerKill](https://github.com/AbdulRKB/TBlazerKill) - Enumerates information about connected devices
 - [WebPagesKiller](https://github.com/AbdulRKB/WebPagesKiller) - Finds hidden pages on websites
 - [ShellDec](https://github.com/AbdulRKB/ShellDec) - Basic Shell decrypting tool
 
